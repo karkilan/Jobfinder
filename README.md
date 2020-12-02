@@ -1,6 +1,6 @@
 # app
 
-> A Vue.js project
+> #VueJS Crud Application This application is an example build of creating CRUD pages using VueJS.
 
 ## Build Setup
 
